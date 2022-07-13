@@ -1,0 +1,123 @@
+body {
+  color: white;
+}
+
+.nav {
+  width: 40%;
+}
+
+.main {
+  margin-left: 100px;
+  margin-top: 250px;
+  color: #fff;
+}
+
+.work {
+  position: relative;
+  text-align: left;
+  color: white;
+  width: auto;
+}
+
+.stories {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+ul {
+  list-style: none;
+}
+
+h1 {
+  font-size: 72px;
+  color: #f55800;
+}
+
+.main h1 {
+  font-size: 72px;
+  color: #f55800;
+}
+
+.stories h1 {
+  font-size: 32px;
+}
+
+.stories p {
+  font-size: 17px;
+}
+
+.icons {
+  margin-top: 300px;
+  color: #fff;
+}
+
+.icons ul li {
+  margin-top: 24px;
+}
+
+.main h2 {
+  font-size: 32px;
+  margin-top: 24px;
+}
+
+.main p {
+  font-size: 20px;
+  line-height: 32px;
+  margin-top: 24px;
+  color: #f4f5f7;
+}
+
+.image {
+  width: 60%;
+}
+
+.About-me {
+  width: 100%;
+}
+
+.tonic {
+  margin-right: 50px;
+}
+
+.ability {
+  margin-top: 100px;
+}
+
+/* .form p {
+  width: 30%;
+}
+
+.forms {
+  display: flex;
+  flex-direction: column;
+}
+
+.input_one {
+  margin-top: 20px;
+}
+
+.message_box {
+  width: 684px;
+  margin-top: 20px;
+} */
+
+/* .bttn {
+  margin-top: 20px;
+  width: 125px;
+  height: 60px;
+  background: #f55800;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+} */
+
+.buton {
+  margin-top: 20px;
+  width: 125px;
+  height: 60px;
+  background: #f55800;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+}
